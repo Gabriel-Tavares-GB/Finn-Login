@@ -1,0 +1,140 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'Roboto', sans-serif;
+}
+
+body{
+position: absolute;
+width: 85.375rem;
+height:64rem;
+left: 0rem;
+top: 0rem;
+background-color: #2CB3F3;
+}  
+
+.section-title{
+
+position: absolute;
+width:66rem;
+height: 8.25rem;
+left:9rem;
+top:5.563rem;     
+}
+
+.title-header{
+
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: 500;
+font-size: 3.5rem;
+line-height:3.438rem;
+color: #000000;
+}
+
+.p-title{
+
+display: flex;
+justify-content: center;
+align-items: center;
+font-weight: 400;
+font-size: 1.875rem;
+line-height: 3.438rem;
+color: #000000;
+}
+
+.container{
+position: absolute;
+width:55rem;
+height:38.5rem;
+left: 15.188rem;
+top: 15.313rem;
+background: #FFFFFF;
+border-radius: 6.25rem 6.25rem 0rem 0rem;
+}
+
+.box{
+
+position: absolute;
+width: 43.25rem;
+height:30.438rem;
+left: 21.063rem;
+top: 19.313rem;
+background-color: #FFE1C9;
+border-radius: 50%;
+}
+    
+
+ .circle-left{
+position: absolute;
+width: 3.481rem;
+height: 3.481rem;
+left: 32.212rem;
+top: 25.368rem;
+background: #000000;
+border-radius: 50%;
+} 
+
+.circle-right{
+position: absolute;
+width:  3.481rem;
+height:  3.481rem;
+left: 49.716rem;
+top: 25.368rem;
+background: #000000;
+border-radius: 50%;
+}
+
+.label-box-email{
+    
+position: absolute;
+width:23.373rem;
+height: 3.978rem;
+left: 31.018rem;
+top:35.188rem;
+background-color: #FFFFFF;
+border:  0.188rem solid #000000;
+box-sizing: border-box;
+border-radius: 0.313rem;
+}
+
+.label-box-password{
+    
+position: absolute;
+width:23.373rem;
+height: 3.978rem;
+left: 31.018rem;
+top: 39.125rem;
+background: #FFFFFF;
+border: 0.188rem solid #000000;
+box-sizing: border-box;
+border-radius: 0.313rem;
+}
+
+.boton{
+    
+position: absolute;
+width: 13.75rem;
+height: 4.375rem;
+left: 35.813rem;
+top: 55.313rem;
+background-color: #55A603;
+box-shadow: 0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.25), 0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.25), 0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.25), 0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.25), 0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.25), 0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.25), 0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.25), 0rem 0.25rem 0.25rem rgba(0, 0, 0, 0.25);
+border-radius: 0.313rem;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.p-basebord{
+
+font-weight: bold;
+font-size: 1.5rem;
+line-height: 1.75rem;
+}
+
+
+
+
